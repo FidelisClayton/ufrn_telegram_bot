@@ -1,2 +1,2 @@
 # ufrn_telegram_bot
-Telegram bot for UFRN bus and RU.
+Telegram bot to consult UFRN bus stops and RU.
